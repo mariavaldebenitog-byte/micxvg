@@ -1,4 +1,3 @@
 # web micxvg
 
-mi página web
-cosa
+mi página web de portafolio hecha con html
